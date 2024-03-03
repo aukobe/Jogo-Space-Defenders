@@ -1,4 +1,2 @@
 # Jogos-Digitais
-Criação de um jogo utilizando a biblioteca pygame.
-
-Na disciplina de Jogos Digitais do 4º Semestre do curso de Sistemas de Informação na Universidade Presbiteriana Mackenzie, nós tivemos a oportunidade de desenvolver um jogo 2D com a biblioteca pygame. 
+Confecção de um jogo voltado para o segmento da educação na preservação do meio ambiente/sustentabilidade usando uma biblioteca do Python chamada Pygame.
